@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wSLUKa1mr5OeR/fCI/WbszVbc921e1npfT4aMB+S4efCx0wWNxUDRa//70llYqUXweouSaf00AaGzik9nfuwTQ==",
+  "dgSpecHash": "3BAb2pMuLywVELm1TduvahVZpOLuc3whwzGpl0h8CpwfVGf3z5hbdzczI2yCR2FlBE7ZTdFDRhGJ1B++63IG6w==",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\MyWebApp.csproj",
+  "projectFilePath": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\MyWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

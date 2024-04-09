@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\farid\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\obj\\",
+      "outputPath": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\farid\\AppData\\Roaming\\NuGet\\NuGet.Config"

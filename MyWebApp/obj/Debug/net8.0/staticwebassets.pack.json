@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\wwwroot\\images\\04746609-8bf5-49b1-9c9f-462a4d21627e.jpg",
+      "Id": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\images\\04746609-8bf5-49b1-9c9f-462a4d21627e.jpg",
       "PackagePath": "staticwebassets\\images\\04746609-8bf5-49b1-9c9f-462a4d21627e.jpg"
+    },
+    {
+      "Id": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\images\\1def988a-3042-4ded-be1d-78fbe7d27068.png",
+      "PackagePath": "staticwebassets\\images\\1def988a-3042-4ded-be1d-78fbe7d27068.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyWebApp.Microsoft.AspNetCore.StaticWebAssets.props",

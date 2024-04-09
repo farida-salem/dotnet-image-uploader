@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "11s5C1W8ulPftLE91Ge/pPcZ4M+wfNSb0W5qhcvxiyc=",
+  "Hash": "4QTdYQ/qALeGCHNxpDe0e0dg0KzGNdK4ITImIk+feis=",
   "Source": "MyWebApp",
   "BasePath": "_content/MyWebApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MyWebApp\\wwwroot",
       "Source": "MyWebApp",
-      "ContentRoot": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\",
       "BasePath": "_content/MyWebApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\wwwroot\\images\\04746609-8bf5-49b1-9c9f-462a4d21627e.jpg",
+      "Identity": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\images\\04746609-8bf5-49b1-9c9f-462a4d21627e.jpg",
       "SourceId": "MyWebApp",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Downloads\\SIlverKey\\Assignment2\\MyWebApp\\wwwroot\\",
+      "ContentRoot": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\",
       "BasePath": "_content/MyWebApp",
       "RelativePath": "images/04746609-8bf5-49b1-9c9f-462a4d21627e.jpg",
       "AssetKind": "All",
@@ -34,6 +34,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\04746609-8bf5-49b1-9c9f-462a4d21627e.jpg"
+    },
+    {
+      "Identity": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\images\\1def988a-3042-4ded-be1d-78fbe7d27068.png",
+      "SourceId": "MyWebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GitHub\\dotnet-image-uploader\\MyWebApp\\wwwroot\\",
+      "BasePath": "_content/MyWebApp",
+      "RelativePath": "images/1def988a-3042-4ded-be1d-78fbe7d27068.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\1def988a-3042-4ded-be1d-78fbe7d27068.png"
     }
   ]
 }
